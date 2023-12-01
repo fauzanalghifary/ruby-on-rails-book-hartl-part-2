@@ -20,5 +20,12 @@
         </library>
       </libraries>
     </data-source>
+    <data-source source="LOCAL" name="mysite_0g57@dpg-clh02nb1hq4c73bklpq0-a.oregon-postgres.render.com" uuid="432c314d-8194-4cf1-8643-6a17e87f0c62">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://dpg-clh02nb1hq4c73bklpq0-a.oregon-postgres.render.com:5432/mysite_0g57</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
